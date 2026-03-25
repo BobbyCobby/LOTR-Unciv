@@ -40,7 +40,8 @@
 		"adjective": ["Gondorian"],
 				"style": "motw",
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "Scientific",
+		// "preferredVictoryType": "Scientific", (nonexistent)
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -68,7 +69,8 @@
 		"adjective": ["Isengard"],
 				"style": "Orc",
 		"startBias": ["Hill"],
-		"preferredVictoryType": "Scientific",
+		// "preferredVictoryType": "Scientific", (nonexistent)
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -124,7 +126,8 @@
 		"adjective": ["Angmar"],
 		"startBias": ["Tundra"],
 				"style": "Orc",
-		"preferredVictoryType": "Scientific",
+		// "preferredVictoryType": "Scientific", (nonexistent)
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -209,7 +212,8 @@
 		"leaderName": "Elendil",
 				"style": "motw",
 		"adjective": ["Arnorian"],
-		"preferredVictoryType": "Scientific",
+		// "preferredVictoryType": "Scientific", (nonexistent)
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -237,7 +241,8 @@
 		"adjective": ["Easterling"],
 				"style": "Mote",
 		"startBias": ["Plains","Desert"],
-		"preferredVictoryType": "Cultural",
+		// "preferredVictoryType": "Cultural", (nonexistent)
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -292,7 +297,8 @@
 		"leaderName": "Elrond",
 		"adjective": ["Noldor"],
 				"style": "Elven",
-		"preferredVictoryType": "Cultural",
+		// "preferredVictoryType": "Cultural", (nonexistent)
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
