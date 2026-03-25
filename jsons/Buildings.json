@@ -815,7 +815,7 @@
 		"culture": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["Enemy land units must spend 1 extra movement point when inside your territory (obsolete upon Dynamite)", 
+		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory", 
 			"Gain a free [Walls] [in this city]"],
 		"requiredTech": "Engineering",
 	},
