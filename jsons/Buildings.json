@@ -1114,7 +1114,7 @@
 		"requiredTech": "Agriculture",
 	}, */
 	{
-		"name": "The One Ring to rule them all",
+		"name": "One Ring to rule them all",
 		"cost": 15,
 				"isNationalWonder": true,
 	        //"requiredBuilding": "Enable Ring Victory",
