@@ -54,7 +54,7 @@
 		"cost": 120,
 		"promotions": ["Hero"],
 		"requiredTech": "Horseback Riding",
-		"uniques": ["Consumes [1] [Special]", "Not displayed as an available construction without [Special]", 
+		"uniques": ["Consumes [1] [Special]", "Only available <with [Special]>", 
 			"[200]% Strength <vs [Balrog] units>", "Ignores Zone of Control"],
 	},
 	{
@@ -71,7 +71,7 @@
 		"movement": 4,
 		"strength": 16,
 		"promotions": ["Hero"],
-		"uniques": ["Unbuildable", "Bonus for units in 2 tile radius 15%"],
+		"uniques": ["Unbuildable", "[+15]% Strength bonus for [Military] units within [2] tiles"],
 	},
 	{
 		"name": "Faramir",
@@ -131,7 +131,7 @@
 		"movement": 3,
 		"strength": 12,
 		"promotions": ["Hero"],
-		"uniques": ["Unbuildable", "May withdraw before melee ([100]%)"],
+		"uniques": ["Unbuildable", "Withdraws before melee combat <with [100]% chance>"],
 	},
 	{
 		"name": "Gothmog",
@@ -165,7 +165,7 @@
 		"range": 2,
 		"rangedStrength": 18,
 		"promotions": ["Hero"],
-		"uniques": ["Unbuildable", "Must set up to ranged attack", "Bonus for units in 2 tile radius 15%"],
+		"uniques": ["Unbuildable", "Must set up to ranged attack", "[+15]% Strength bonus for [Military] units within [2] tiles"],
 	},
 	{
 		"name": "Shelob",
@@ -181,7 +181,7 @@
 		"movement": 4,
 		"strength": 23,
 		"promotions": ["Hero"],
-		"uniques": ["Unbuildable", "Bonus for units in 2 tile radius 15%", "[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+		"uniques": ["Unbuildable", "[+15]% Strength bonus for [Military] units within [2] tiles", "[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
 	},
 	{
 		"name": "Mouth of Sauron",
@@ -790,7 +790,7 @@
 		"strength": 21,
 		"cost": 120,
 		"requiredTech": "Astronomy",
-		"uniques": ["[+1] Sight","May withdraw before melee ([80]%)"],
+		"uniques": ["[+1] Sight","Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
 	},
@@ -888,32 +888,32 @@
 	{
 		"name": "Great Artist",
 		"unitType": "Civilian",
-		"uniques": ["Can start an [8]-turn golden age", "Can construct [Landmark]", "Great Person - [Culture]", "Unbuildable"],
+		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "Can instantly construct a [Landmark] improvement <by consuming this unit>", "Great Person - [Culture]", "Unbuildable"],
 		"movement": 2
 	},
 	{
 		"name": "Great Scientist",
 		"unitType": "Civilian",
-		"uniques": ["Can hurry technology research", "Can construct [Academy]", "Great Person - [Science]", "Unbuildable"],
+		"uniques": ["Can hurry technology research", "Can instantly construct a [Academy] improvement <by consuming this unit>", "Great Person - [Science]", "Unbuildable"],
 		"movement": 2
 	},
 	{
 		"name": "Great Merchant",
 		"unitType": "Civilian",
 		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
-			"Can construct [Customs house]", "Great Person - [Gold]", "Unbuildable"],
+			"Can instantly construct a [Customs house] improvement <by consuming this unit>", "Great Person - [Gold]", "Unbuildable"],
 		"movement": 2
 	},
 	{
 		"name": "Great Engineer",
 		"unitType": "Civilian",
-		"uniques": ["Can speed up construction of a wonder", "Can construct [Manufactory]", "Great Person - [Production]", "Unbuildable"],
+		"uniques": ["Can speed up construction of a wonder", "Can instantly construct a [Manufactory] improvement <by consuming this unit>", "Great Person - [Production]", "Unbuildable"],
 		"movement": 2
 	},
 	{
 		"name": "Great General",
 		"unitType": "Civilian",
-		"uniques": ["Can start an [8]-turn golden age", "Bonus for units in 2 tile radius 15%", "Can construct [Citadel]",
+		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[+15]% Strength bonus for [Military] units within [2] tiles", "Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Great Person - [War]", "Unbuildable"],
 		"movement": 2
 	},
@@ -925,9 +925,9 @@
 		"replaces": "Great General",
 		"upgradesTo": "Nazgul-Fellbeast",
 		"cost": 80,
-		"uniques": ["Can start an [8]-turn golden age", "[-10]% Strength for enemy [Military] units in adjacent [All] tiles", 
-			"Bonus for units in 2 tile radius 15%", "May be upgraded with Fellbeasts", "Consumes [1] [Nazgul]", 
-			"Can construct [Citadel]", "Great Person - [War]", "Unbuildable"],
+		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[-10]% Strength for enemy [Military] units in adjacent [All] tiles", 
+			"[+15]% Strength bonus for [Military] units within [2] tiles", "May be upgraded with Fellbeasts", "Consumes [1] [Nazgul]", 
+			"Can instantly construct a [Citadel] improvement <by consuming this unit>", "Great Person - [War]", "Unbuildable"],
 		"movement": 2
 	},
 	{
@@ -936,9 +936,9 @@
 		"uniqueTo": "Mordor",
 		"strength": 23,
 		"requiredResource": "Fellbeast",
-		"uniques": ["Can start an [8]-turn golden age", "[-10]% Strength for enemy [Military] units in adjacent [All] tiles", 
-			"Bonus for units in 2 tile radius 15%", "Will not be displayed in Civilopedia", "Can move after attacking", 
-			"Can construct [Citadel]", "Consumes [1] [Nazgul]", "Ignores terrain cost", "Not displayed as an available construction without [Block]"],
+		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[-10]% Strength for enemy [Military] units in adjacent [All] tiles", 
+			"[+15]% Strength bonus for [Military] units within [2] tiles", "Will not be displayed in Civilopedia", "Can move after attacking", 
+			"Can instantly construct a [Citadel] improvement <by consuming this unit>", "Consumes [1] [Nazgul]", "Ignores terrain cost", "Only available <with [Block]>"],
 		"movement": 5,
 		"cost": 120,
 	}
