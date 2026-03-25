@@ -60,7 +60,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "For the White City",
 		"uniqueText": "Workers improve tiles 25% faster, receive a free Worker when you discover Pottery",
-		"uniques": ["Gain a free [RSupply] [in all cities]","Gain a free [Rings] [in capital]","Gain a free [Good] [in capital]","Tile improvement speed +25%","Receive free [Worker] when you discover [Pottery]"],
+		"uniques": ["Gain a free [RSupply] [in all cities]","Gain a free [Rings] [in capital]","Gain a free [Good] [in capital]","Tile improvement speed +25%","Free [Worker] appears <upon discovering [Pottery] technology>"],
 		"cities": ["Minas Tirith","Osgiliath","Ithilien","Cair Andros","Dol Amroth","Lamedon","Henneth Annun","Lossarnach","Lebennin","Anfalas","Belfalas","Morthond","Ringlo Vale","Andrast","Pelargir","Linhir","Tarnost","Ethring"]
 	},
 			{
@@ -117,7 +117,7 @@
 		"innerColor": [207, 120, 0],
 		"uniqueName": "Gather them all!",
 		"uniqueText": "Great Generals are generated 50% faster. Receives a free Nazgul when you discover Trapping",
-		"uniques": ["Gain a free [RSupply] [in all cities]","Gain a free [Rings] [in capital]","Gain a free [Evil] [in capital]","[Great General] is earned [50]% faster","Receive free [Nazgul] when you discover [Trapping]","Gain a free [Nazgul Supply] [in capital]"],
+		"uniques": ["Gain a free [RSupply] [in all cities]","Gain a free [Rings] [in capital]","Gain a free [Evil] [in capital]","[Great General] is earned [50]% faster","Free [Nazgul] appears <upon discovering [Trapping] technology>","Gain a free [Nazgul Supply] [in capital]"],
 		"cities": ["Barad Dur","Orodruin","Gorgoroth","Udun","Nurn","Dagorlad","Durthang","Cirith Gorgor","Ered Lithui","Ered Duath","Cirith Ungol","Morgul Pass","Black Gate","Nargroth","Morgai","Morannon","Seregost","Lithlad","Carach Angren"]
 	},
 					{
@@ -176,7 +176,7 @@
 		"innerColor": [125, 145, 26],
 		"uniqueName": "Horror of the Deeps",
 		"uniqueText": "+20% Combat Bonus in Friendly Land. Melee units gain 50% more Experience from combat. A Balrog appears in your capital when you discover Mining"
-		"uniques": ["Gain a free [RSupply] [in all cities]","Gain a free [Rings] [in capital]","Gain a free [Evil] [in capital]","+[20]% combat bonus for units fighting in [Friendly Land]","[50]% XP gained from combat <for [Melee] units>","Receive free [Balrog] when you discover [Mining]"],
+		"uniques": ["Gain a free [RSupply] [in all cities]","Gain a free [Rings] [in capital]","Gain a free [Evil] [in capital]","+[20]% combat bonus for units fighting in [Friendly Land]","[50]% XP gained from combat <for [Melee] units>","Free [Balrog] appears <upon discovering [Mining] technology>"],
 		"cities": ["Moria","Goblin town","Withered Heath","Ettenmoors","High Pass","Misty Mountains","Grey Mountains","Dwarrodelf","Glaurung","Ancalagon","Scatha","Gram Mountain","Rhimdath","Cold Fields","Hoardale"]
 	},
 							{
