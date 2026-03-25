@@ -283,21 +283,21 @@
 		"uniqueTo": "Isengard",
 		"cost": -1,
 		"uniques": ["Only available <if [Palace] is constructed>", "Free [Lightning Bolt] appears", "Unsellable", 
-				"Unlocked with [Second Age]", "Will not be displayed in Civilopedia"]
+				"Only available <starting from the [Second Age]>", "Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Third Lightning Bolt",
 		"uniqueTo": "Isengard",
 		"cost": -1,
 		"uniques": ["Only available <if [Palace] is constructed>", "Free [Lightning Bolt] appears", "Unsellable", 
-				"Unlocked with [Third Age]", "Will not be displayed in Civilopedia"]
+				"Only available <starting from the [Third Age]>", "Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Fourth Lightning Bolt",
 		"uniqueTo": "Isengard",
 		"cost": -1,
 		"uniques": ["Only available <if [Palace] is constructed>", "Free [Lightning Bolt] appears", "Unsellable", 
-				"Unlocked with [Fourth Age]", "Will not be displayed in Civilopedia"]
+				"Only available <starting from the [Fourth Age]>", "Will not be displayed in Civilopedia"]
     },
 	{
 		"name": "Nazgul Supply",
