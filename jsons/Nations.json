@@ -176,7 +176,7 @@
 		"innerColor": [125, 145, 26],
 		"uniqueName": "Horror of the Deeps",
 		"uniqueText": "+20% Combat Bonus in Friendly Land. Melee units gain 50% more Experience from combat. A Balrog appears in your capital when you discover Mining"
-		"uniques": ["Gain a free [RSupply] [in all cities]","Gain a free [Rings] [in capital]","Gain a free [Evil] [in capital]","+[20]% combat bonus for units fighting in [Friendly Land]","[50]% XP gained from combat <for [Melee] units>","Free [Balrog] appears <upon discovering [Mining] technology>"],
+		"uniques": ["Gain a free [RSupply] [in all cities]","Gain a free [Rings] [in capital]","Gain a free [Evil] [in capital]","[+20]% Strength <when fighting in [{Friendly Land}] tiles>","[50]% XP gained from combat <for [Melee] units>","Free [Balrog] appears <upon discovering [Mining] technology>"],
 		"cities": ["Moria","Goblin town","Withered Heath","Ettenmoors","High Pass","Misty Mountains","Grey Mountains","Dwarrodelf","Glaurung","Ancalagon","Scatha","Gram Mountain","Rhimdath","Cold Fields","Hoardale"]
 	},
 							{
@@ -317,7 +317,7 @@
 		"innerColor": [36, 98, 102],
 		"uniqueName": "Blessings of the Valar",
 		"uniqueText": "+20% great person generation in all cities. +1 Culture and +1 Gold from every specialist.",
-		"uniques": ["Gain a free [RSupply] [in all cities]","Gain a free [Rings] [in capital]","Gain a free [Good] [in capital]","+[20]% great person generation in all cities","[+1 Culture, +1 Gold] from every specialist [in all cities]"],
+		"uniques": ["Gain a free [RSupply] [in all cities]","Gain a free [Rings] [in capital]","Gain a free [Good] [in capital]","[+20]% Great Person generation [in all cities]","[+1 Culture, +1 Gold] from every specialist [in all cities]"],
 		"cities": ["Rivendell","Imladris","Bruinen","Hithaeglir","Hollin","Ost-in-Edhil","Glad Ereg","Sirannon","Mirdam","Emun Naer","Mitheithel","Hoarwell","Glanduin","Nin-in-Eilp","Gath Ulor","Urugarth","Duvumen"]
 	}, 
 {
