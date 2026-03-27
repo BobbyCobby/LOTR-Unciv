@@ -329,7 +329,7 @@
 		"uniqueTo": "Harad",
 		"cost": 0,
 		"hurryCostModifier": 40,
-		"uniques": ["Will not be displayed in Civilopedia","New [Haradrim Lancer] units start with [30] Experience in this city","Unbuildable","Unsellable"],
+		"uniques": ["Will not be displayed in Civilopedia","New [Haradrim Lancer] units start with [30] XP [in this city]","Unbuildable","Unsellable"],
 	},
 		{
 		"name": "none",
