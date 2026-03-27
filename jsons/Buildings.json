@@ -1092,7 +1092,7 @@
 		"name": "Meduseld",
 		"culture": 3,
 		"isWonder": true,
-		"greatPersonPoints": {"production": 2},
+		"greatPersonPoints": {"Great Engineer": 2},
 		"providesFreeBuilding": "Castle",
 		"uniques": ["[+15]% Strength <when fighting in [{Friendly} {Land}] tiles>"],
 		"requiredTech": "Economics",
